@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🤖 Machine Learning: estudando fundamentos matemáticos e estatísticos de algoritmos, métricas e pré-processamento.  <br>🐍 Python: revisão de estruturas de dados, POO, funções, manipulação de arquivos e bibliotecas científicas.<br>🎮 Projeto de IC no Godot: jogo interativo sobre planos inclinados, aplicando game-based learning para ensinar física a estudantes do E.M.</p>
+<p align="left">🤖 Machine Learning: estudando fundamentos matemáticos e estatísticos de algoritmos, métricas e pré-processamento.  <br>🐍 Python: revisão de estruturas de dados, POO, funções, manipulação de arquivos e bibliotecas científicas.<br>🎮 Projeto de IC | Godot: jogo interativo sobre planos inclinados, aplicando game-based learning para ensinar física a estudantes do E.M.</p>
 
 ###
 
