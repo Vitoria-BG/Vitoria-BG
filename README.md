@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👩‍💻 Estudante de Ciência da Computação<br>✨ Movida pela inovação e pela curiosidade científica<br>🚀Apaixonada pelo setor aeroespacial e pela astrofísica</p>
+<p align="left">👩‍💻 Estudante de Ciência da Computação no IFSP<br>✨ Movida pela inovação e pela curiosidade científica<br>🚀Apaixonada pelo setor aeroespacial e pela astrofísica</p>
 
 ###
 
